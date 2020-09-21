@@ -1,0 +1,37 @@
+body{background-image:url('../images/index.jpg');max-width:1000px;background-repeat: no-repeat;}
+.center_align {max-width: 1000px;margin: auto;}
+.menu{display:inline-flex;list-style:none;color:white;font-style: italic;}
+nav{background-color:transparent;}
+
+.introduction{position:absolute;top:50%;left:50%;width:500px;heigth:200px;}
+.introduction h3{color:white;}
+.introduction p{color:#3B7A57;}
+.introduction button{color:white;}
+
+
+.login_form_layout {margin-left:0px;}
+.login_form_layout input{border:2px ridge grey;}
+
+.login_form_layout label{min-width:400px;padding :2em;color:#4682b4;}
+
+form.form_layout {border: 3px solid red;opacity:0.95; padding:15px;color:#FFCC00;background-image:url('../images/sign_up_background.jpg');background-repeat: repeat;
+position:absolute;top:200px;left:180px; }
+
+.form_layout label{min-width:200px;padding:2em;}
+
+.register_form h1{color:#4682b4;}
+.register_form{color:#ffd700;}
+
+
+
+.vertical-center {
+  max-height: 400px;
+  min-width: 400px;
+position: absolute; top:200px;left:150px;max-width: 1000px;
+  display: flex;
+  align-items: center;
+}
+
+h4{color:#4682b4;}
+
+.contact_form{color:red;}
